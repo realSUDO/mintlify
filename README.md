@@ -9,9 +9,6 @@ https://github.com/user-attachments/assets/68d1f68d-db53-4208-bde5-c77ef0695972
 
 
 
-
-
-
 **Live Site:** [mintu-five.vercel.app](https://mintu-five.vercel.app/)
 
 ## Sections Recreated
@@ -52,6 +49,7 @@ White:          #f4f5f4
 - Pure HTML5
 - Vanilla CSS3
 - No frameworks or libraries
+- No JS
 
 ## Features
 
